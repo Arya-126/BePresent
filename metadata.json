@@ -1,0 +1,6 @@
+{
+  "name": "BePresent",
+  "description": "A gamified screen time & digital wellness coach to reclaim your attention and build strong focus habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
